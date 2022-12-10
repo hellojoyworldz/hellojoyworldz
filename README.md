@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-</br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhellojoyworldz%2Fhit-counter&count_bg=%23E145FE&title_bg=%23B1B1B1&icon=baidu.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <br/>
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=csswizardry&logoColor=white"/></span>
@@ -44,5 +40,6 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhellojoyworldz%2Fhit-counter&count_bg=%23E145FE&title_bg=%23B1B1B1&icon=baidu.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellojoyworldz&layout=compact"></span>
 <span><img src="https://github-readme-stats.vercel.app/api?username=hellojoyworldz&show_icons=true"></span>
