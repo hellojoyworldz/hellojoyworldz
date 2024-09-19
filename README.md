@@ -11,6 +11,7 @@
   <img height="170px" src="https://velog-readme-stats.vercel.app/api/list?name=hellojoyworldz"/>
 </a>
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=hellojoyworldz)](https://velog.io/@hellojoyworldz)
 
 
 
