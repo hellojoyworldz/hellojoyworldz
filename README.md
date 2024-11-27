@@ -20,6 +20,7 @@
   />
 </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hellojoyworldz)](https://github.com/hellojoyworldz)
   
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellojoyworldz&layout=compact" alt=""/>
 
